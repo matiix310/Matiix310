@@ -1,5 +1,5 @@
 <div align="center">
-	<h1>Hi! I'm <a href="https://matiix310.github.io">Matiix310</a>!</h1>
+	<h1>Hi! I'm <a href="https://www.matiix310.dev">Matiix310</a>!</h1>
 	<div>Student in IT, only typing over red lines</div>
 	<br />
 	<a href="https://www.gnu.org/gnu/linux-and-gnu.en.html"><img src="https://img.shields.io/badge/OS-GNU/Linux-cdd6f4?style=flat&logo=gnu" /></a>
