@@ -4,7 +4,7 @@
 	<br />
 	<a href="https://www.gnu.org/gnu/linux-and-gnu.en.html"><img src="https://img.shields.io/badge/OS-GNU/Linux-cdd6f4?style=flat&logo=gnu" /></a>
 	<a href="https://archlinux.org"><img src="https://img.shields.io/badge/DISTRO-Arch-74c7ec?style=flat&logo=arch-linux" /></a>
-	<a href="https://neovim.io"><img src="https://img.shields.io/badge/EDITOR-Neovim-a6e3a1?style=flat&logo=neovim" /></a>
+	<a href="https://www.jetbrains.com/fleet"><img src="https://img.shields.io/badge/EDITOR-Fleet-8778f3?style=flat&logo=jetbrains" /></a>
 	<a href="https://www.rust-lang.org"><img src="https://img.shields.io/badge/LANG-Rust-f2cdcd?style=flat&logo=rust" /></a>
 	<br />
 	<a href="https://github.com/matiix310"><img src="https://img.shields.io/github/stars/matiix310?color=cdd6f4&label=GITHUB&style=flat&logo=github" /></a>
