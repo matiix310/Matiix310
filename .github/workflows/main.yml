@@ -25,8 +25,7 @@ jobs:
         uses: LuciNyan/pixel-profile/action@main
         with:
           outputs: |
-            dist/github-stats?username=matiix310&theme=crt
-
+            dist/github-stats?username=matiix310&theme=crt&include_all_commits=true&pixelate_avatar=true&hide=issues&background=%230d1117
       # push the content of <build_dir> to a branch
       # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
       - name: push github-contribution-grid-snake.svg to the output branch
